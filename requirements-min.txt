@@ -1,0 +1,5 @@
+# Minimal requirements for running the core Streamlit app
+streamlit==1.47.1
+pandas==2.3.1
+numpy==2.2.6
+plotly==6.3.1
